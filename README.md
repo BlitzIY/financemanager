@@ -1,6 +1,6 @@
 FinanceManager - Sistema Avançado de Gestão Financeira
 
-https://via.placeholder.com/1200x400/1a1b2e/6366f1?text=FinancePro+Gestão+Financeira+Inteligente
+https://via.placeholder.com/1200x400/1a1b2e/6366f1?text=FinanceManager+Gestão+Financeira
 
 📊 Visão Geral
 
