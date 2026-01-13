@@ -58,11 +58,11 @@ Instalação Local
 
 1. Clone ou baixe o projeto:
    ```bash
-   git clone https://github.com/seu-usuario/financepro.git
+   git clone https://github.com/BlitzIY/financemanager.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd financepro
+   cd financemanager
    ```
 3. Abra o arquivo index.html em seu navegador:
    ```bash
@@ -111,7 +111,7 @@ Filtrar Transações
 🏗️ Estrutura do Projeto
 
 ```
-financepro/
+FinanceManager/
 │
 ├── index.html              # Arquivo principal da aplicação
 ├── README.md               # Este arquivo
